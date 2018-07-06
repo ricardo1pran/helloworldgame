@@ -29,6 +29,8 @@
 	<plugin name="cordova-plugin-whitelist" source="npm" />
 	<access origin="*" />
 
+	<plugin name="cordova-plugin-inappbrowser" source="npm" />
+
 	<!-- Optional splash screen image, e.g.: -->
 	<!-- <gap:splash src="splash.png" width="1024" height="768" /> -->
 

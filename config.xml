@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.ricardo1pran.helloworldgame" version="0.1.4" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Hello World (Game)</name>
+    <description>
+        A blank PhoneGap app.
+    </description>
+    <author email="support@phonegap.com" href="http://phonegap.com">
+        PhoneGap Team
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+    <platform name="android" />
+    <platform name="winphone">
+        <preference name="windows-arch" value="arm" />
+        <preference name="windows-appx-target" value="anycpu" />
+    </platform>
+</widget>

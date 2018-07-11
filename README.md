@@ -1,4 +1,4 @@
-# A Blank PhoneGap App
+# Software Engineering Team Heinrich
 
 ## Usage
 
@@ -12,3 +12,10 @@ In your browser, open the file:
 
     /www/index.html
 
+## Project Manager:
+
+    Heinrich Reagan
+
+### Members:
+    Ricardo G.
+    Tian Robert

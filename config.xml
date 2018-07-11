@@ -10,7 +10,9 @@
     <content src="index.html" />
     <access origin="*" />
     <platform name="android" />
-    <platform name="ios" />
+    <platform name="ios">
+      <preference name="android-installLocation" value="preferExternal"/>
+    </platform>
     <platform name="winphone">
         <preference name="windows-arch" value="arm" />
         <preference name="windows-appx-target" value="anycpu" />

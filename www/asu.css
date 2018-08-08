@@ -1,14 +1,28 @@
 #btn{
-opacity:0.5;
+opacity:0;
+font-size:10;
 border-radius:10px;
 padding:8px;
 transition:all 0.1s;
 }
 #btn:hover{
-opacity:1;
+opacity:0.8;
 padding:10px;
 transition:all 0.1s;
 }
+
+#btnsys{
+opacity:0.5;
+border-radius:10px;
+padding:8px;
+transition:all 0.1s;
+}
+#btnsys:hover{
+opacity:0.95;
+padding:10px;
+transition:all 0.1s;
+}
+
 #btn:active{
 padding:0;
 transition:all 0.1s;
@@ -17,7 +31,7 @@ background-color:#ebebeb;
 
 #btnplay{
 color:white;
-font-size:20px;
+font-size:20;
 border-radius:20px;
 background: #8cd1ff;
   background-image: -webkit-linear-gradient(top, #8cd1ff, #2980b9);

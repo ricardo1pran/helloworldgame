@@ -13,9 +13,7 @@
     <preference name="orientation" value="landscape" />
     <preference name="android-installLocation" value="preferExternal"/>
   </platform>
-  <platform name="ios">
-    <preference name="orientation" value="landscape" />
-  </platform>
+  
   <platform name="winphone">
     <preference name="windows-arch" value="arm" />
     <preference name="windows-appx-target" value="arm" />

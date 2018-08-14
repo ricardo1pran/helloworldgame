@@ -92,6 +92,8 @@
     <preference name="windows-publisher-id" value="ricardo1pran"/>
     <preference name="Fullscreen" value="true"/>
     <preference name="Orientation" value="landscape"/>
+    <preference name="windows-arch" value="arm" />
+    <preference name="windows-appx-target" value="arm" />
 </platform>
 <config-file platform="android" parent="/manifest/application" mode="merge"> 
     <activity android:launchMode="singleTop" />
